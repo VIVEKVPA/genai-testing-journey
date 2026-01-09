@@ -43,7 +43,7 @@ This roadmap prioritizes **understanding over completion**. Each week has:
 | Track | Weeks | For Whom |
 |-------|-------|----------|
 | 🔴 **Security & Red Teaming** | +10 weeks | AI Security careers |
-| 🟤 **ML Deep Dive** | +10 weeks | Staff/Principal roles (₹75 LPA+) |
+| 🟤 **ML Deep Dive** | +10 weeks | Staff/Principal roles |
 
 ---
 

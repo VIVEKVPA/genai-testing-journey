@@ -5,7 +5,7 @@ This document tracks my completion status for the **GenAI Testing Journey**.
 ## 📊 Summary
 | Phase | Weeks | Status | Progress |
 |-------|-------|--------|----------|
-| 🔵 Foundation | 1-8 | 🟡 In Progress | 50% |
+| 🔵 Foundation | 1-8 | 🟡 In Progress | 10% |
 | 🟣 LLM Fundamentals | 9-18 | ⚪ Not Started | 0% |
 | 🟢 Evaluation Core | 19-28 | ⚪ Not Started | 0% |
 | 🟡 Frameworks Mastery | 29-38 | ⚪ Not Started | 0% |

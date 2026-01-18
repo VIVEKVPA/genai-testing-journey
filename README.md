@@ -279,6 +279,6 @@ Special thanks to:
 *Started: January 2026 | Target Completion: January 2027*
 
 [![LinkedIn](https://img.shields.io/badge/Follow_the_Journey-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srv-sngh)
-[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@SouravsLab)
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@SouravAILabs)
 
 </div>

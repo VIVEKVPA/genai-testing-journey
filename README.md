@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Week](https://img.shields.io/badge/Current_Week-2%2F52-blue?style=for-the-badge)
+![Week](https://img.shields.io/badge/Current_Week-3%2F52-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge)
 ![Followers](https://img.shields.io/badge/Community-Growing-orange?style=for-the-badge)
 
@@ -167,14 +167,14 @@ For Staff/Principal engineering roles.
 
 | Phase | Weeks | Status | Progress |
 |-------|-------|--------|----------|
-| 🔵 Foundation | 1-8 | 🟡 In Progress | █░░░░░░░░░ 12.5% |
+| 🔵 Foundation | 1-8 | 🟡 In Progress | ██░░░░░░░░ 25% |
 | 🟣 LLM Fundamentals | 9-18 | ⚪ Not Started | ░░░░░░░░░░ 0% |
 | 🟢 Evaluation Core | 19-28 | ⚪ Not Started | ░░░░░░░░░░ 0% |
 | 🟡 Frameworks Mastery | 29-38 | ⚪ Not Started | ░░░░░░░░░░ 0% |
 | 🟠 Agentic AI | 39-46 | ⚪ Not Started | ░░░░░░░░░░ 0% |
 | ⭐ Capstone | 47-52 | ⚪ Not Started | ░░░░░░░░░░ 0% |
 
-**Overall: Week 2/52** — 2% Complete
+**Overall: Week 3/52** — 4% Complete
 
 ---
 
@@ -274,7 +274,7 @@ Special thanks to:
 
 <div align="center">
 
-**Week 1/52 — The journey of a thousand miles begins with a single step.**
+**Week 3/52 — Success is the sum of small efforts, repeated day in and day out.**
 
 *Started: January 2026 | Target Completion: January 2027*
 

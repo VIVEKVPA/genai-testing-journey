@@ -10,7 +10,7 @@
 
 *Learning in public. Building in public. Growing together.*
 
-[📚 Full Roadmap](#-the-52-week-roadmap) • [🎯 Weekly Progress](#-weekly-progress-tracker) • [🤝 Join the Journey](#-join-the-community) • [📖 Resources](#-resources)
+[📚 Full Roadmap](#-the-52-week-roadmap) • [🎯 Weekly Progress](#-weekly-progress-tracker) • [📺 YouTube](https://www.youtube.com/@SouravAILabs) • [🔗 LinkedIn](https://www.linkedin.com/in/srv-sngh) • [🤝 Join the Journey](#-join-the-community) • [📖 Resources](#-resources)
 
 </div>
 
